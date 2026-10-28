@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = arbi.velaj@gmail.com
+	name = Arbi Velaj
